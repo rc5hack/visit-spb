@@ -67,5 +67,5 @@ visit-spb
 
 see also
 --------
-* http://lurkmore.to/Петербург
-* http://lurkmore.to/Петербург/Достопримечательности
+* https://lurkmore.to/Петербург
+* https://lurkmore.to/Петербург/Достопримечательности
